@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Dexive/static/css/main.f59b466f.chunk.css",
+    "main.js": "/Dexive/static/js/main.ef160f06.chunk.js",
+    "main.js.map": "/Dexive/static/js/main.ef160f06.chunk.js.map",
+    "runtime-main.js": "/Dexive/static/js/runtime-main.75be7573.js",
+    "runtime-main.js.map": "/Dexive/static/js/runtime-main.75be7573.js.map",
+    "static/css/2.ea3ab930.chunk.css": "/Dexive/static/css/2.ea3ab930.chunk.css",
+    "static/js/2.c2720393.chunk.js": "/Dexive/static/js/2.c2720393.chunk.js",
+    "static/js/2.c2720393.chunk.js.map": "/Dexive/static/js/2.c2720393.chunk.js.map",
+    "index.html": "/Dexive/index.html",
+    "precache-manifest.c88461725e3e81d61bc7fc467530086f.js": "/Dexive/precache-manifest.c88461725e3e81d61bc7fc467530086f.js",
+    "service-worker.js": "/Dexive/service-worker.js",
+    "static/css/2.ea3ab930.chunk.css.map": "/Dexive/static/css/2.ea3ab930.chunk.css.map",
+    "static/css/main.f59b466f.chunk.css.map": "/Dexive/static/css/main.f59b466f.chunk.css.map",
+    "static/js/2.c2720393.chunk.js.LICENSE.txt": "/Dexive/static/js/2.c2720393.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Dexive/static/media/CircularStd-Medium.4fcdd97f.otf",
+    "static/media/user-img-placeholder.jpeg": "/Dexive/static/media/user-img-placeholder.be2ed151.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75be7573.js",
+    "static/css/2.ea3ab930.chunk.css",
+    "static/js/2.c2720393.chunk.js",
+    "static/css/main.f59b466f.chunk.css",
+    "static/js/main.ef160f06.chunk.js"
+  ]
+}
