@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d20d4f17b837420f5e7d9dc69519c8a",
+    "revision": "e249612d0a5f3a2a591ab31c02cb2b6a",
     "url": "/DexiveWebsite/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DexiveWebsite/static/css/2.ea3ab930.chunk.css"
   },
   {
-    "revision": "551aeba009d353881a0c",
+    "revision": "456ce3d906f8931b351a",
     "url": "/DexiveWebsite/static/css/main.7be33e8f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DexiveWebsite/static/js/2.0f784e83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "551aeba009d353881a0c",
-    "url": "/DexiveWebsite/static/js/main.5ed47e4a.chunk.js"
+    "revision": "456ce3d906f8931b351a",
+    "url": "/DexiveWebsite/static/js/main.ee70c504.chunk.js"
   },
   {
     "revision": "0ae69414b8b692364e98",

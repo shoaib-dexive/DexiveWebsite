@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DexiveWebsite/precache-manifest.cd5abd27ed580fa2143e6f984da4cfb1.js"
+  "/DexiveWebsite/precache-manifest.6d8362e94b1bc501bdee237f04fe2a42.js"
 );
 
 self.addEventListener('message', (event) => {

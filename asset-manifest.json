@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DexiveWebsite/static/css/main.7be33e8f.chunk.css",
-    "main.js": "/DexiveWebsite/static/js/main.5ed47e4a.chunk.js",
-    "main.js.map": "/DexiveWebsite/static/js/main.5ed47e4a.chunk.js.map",
+    "main.js": "/DexiveWebsite/static/js/main.ee70c504.chunk.js",
+    "main.js.map": "/DexiveWebsite/static/js/main.ee70c504.chunk.js.map",
     "runtime-main.js": "/DexiveWebsite/static/js/runtime-main.11be82b7.js",
     "runtime-main.js.map": "/DexiveWebsite/static/js/runtime-main.11be82b7.js.map",
     "static/css/2.ea3ab930.chunk.css": "/DexiveWebsite/static/css/2.ea3ab930.chunk.css",
     "static/js/2.0f784e83.chunk.js": "/DexiveWebsite/static/js/2.0f784e83.chunk.js",
     "static/js/2.0f784e83.chunk.js.map": "/DexiveWebsite/static/js/2.0f784e83.chunk.js.map",
     "index.html": "/DexiveWebsite/index.html",
-    "precache-manifest.cd5abd27ed580fa2143e6f984da4cfb1.js": "/DexiveWebsite/precache-manifest.cd5abd27ed580fa2143e6f984da4cfb1.js",
+    "precache-manifest.6d8362e94b1bc501bdee237f04fe2a42.js": "/DexiveWebsite/precache-manifest.6d8362e94b1bc501bdee237f04fe2a42.js",
     "service-worker.js": "/DexiveWebsite/service-worker.js",
     "static/css/2.ea3ab930.chunk.css.map": "/DexiveWebsite/static/css/2.ea3ab930.chunk.css.map",
     "static/css/main.7be33e8f.chunk.css.map": "/DexiveWebsite/static/css/main.7be33e8f.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.ea3ab930.chunk.css",
     "static/js/2.0f784e83.chunk.js",
     "static/css/main.7be33e8f.chunk.css",
-    "static/js/main.5ed47e4a.chunk.js"
+    "static/js/main.ee70c504.chunk.js"
   ]
 }
